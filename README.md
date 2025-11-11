@@ -1,6 +1,9 @@
-#OOMD LAB - PROJECT 
+# OOMD Lab Project
 
-GROUP MEMBERS : 
-VINAY PAWAR 122B1F098
-VIRAJ POKHARNIKAR 122B1F103
-SANTOSH RATHOD 122B1F111
+## Group Members
+
+| Name              | Roll Number |
+|-------------------|-------------|
+| **Vinay Pawar**        | 122B1F098 |
+| **Viraj Pokharnikar**  | 122B1F103 |
+| **Santosh Rathod**     | 122B1F111 |
