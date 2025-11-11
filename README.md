@@ -2,7 +2,7 @@
 
 ## Group Members
 
-| Name              | Roll Number |
+| Name              | PRN |
 |-------------------|-------------|
 | **Vinay Pawar**        | 122B1F098 |
 | **Viraj Pokharnikar**  | 122B1F103 |
